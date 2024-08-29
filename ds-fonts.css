@@ -40,3 +40,13 @@
   font-weight: 300;
   font-style: italic;
 }
+
+/* SuperNova font style overdies */
+
+.content-block--shortcuts .shortcut-item p.title {
+  font-size: 18px !important;
+}
+
+.content-block--shortcuts .shortcut-item p.description {
+  font-size: 16px !important;
+}
