@@ -50,3 +50,15 @@
 .content-block--shortcuts .shortcut-item p.description {
   font-size: 16px !important;
 }
+
+.content-block--callout.callout-primary {
+  color: #0F62FE !important;
+}
+
+.content-block--callout.callout-primary a {
+  color: #0F62FE !important;
+}
+
+a, a:focus {
+  color: #0B1215 !important;
+}
